@@ -8,7 +8,7 @@
 //  @copyright Copyright 2008  Inc. All rights reserved.
 //
 */
-
+@import UIKit;
 
 typedef NS_ENUM(NSInteger, ZipArchiveCompression) {
     ZipArchiveCompressionDefault = -1,
